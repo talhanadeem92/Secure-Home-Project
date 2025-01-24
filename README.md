@@ -44,8 +44,14 @@ Edit
 git clone https://github.com/your-username/Secure-Home-Project.git
 Open index.html in your browser to view the website.
 Live Demo
-You can view the live demo of the project here:
-Secure Home Project Live Demo
+![image](https://github.com/user-attachments/assets/134e9bf4-2658-4a04-bb6e-2f05e98f6b3d)
+![image](https://github.com/user-attachments/assets/d4b98171-d0da-44d7-b41a-f180e5fed3a4)
+![image](https://github.com/user-attachments/assets/7d5947dd-793d-45f3-974f-5d15acd12b40)
+![image](https://github.com/user-attachments/assets/ee80c82d-be75-44f6-b97d-c7b18fd9fea9)
+![image](https://github.com/user-attachments/assets/91efb4ec-9068-437e-8126-4bd17f134f67)
+![image](https://github.com/user-attachments/assets/032b11bc-dbe7-4114-945f-4a20c2563050)
+![image](https://github.com/user-attachments/assets/41840c18-47ca-408d-9aa2-065deb0a483b)
+
 
 About the Developer
 This project was developed as part of a practice exercise to enhance skills in web development using HTML and CSS.
